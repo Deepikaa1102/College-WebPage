@@ -22,8 +22,8 @@ A simple, responsive, and clean static webpage that provides an overview of the 
 ## 📂 Folder Structure
 project-folder/
 │
-├── index.html # Main HTML file with embedded CSS
-└── README.md # This file
+├── index.html
+└── README.md 
 
 ## 🧑‍💻 How to Use
 
