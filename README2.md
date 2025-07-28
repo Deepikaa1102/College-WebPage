@@ -4,7 +4,7 @@ A simple, responsive, and clean static webpage that provides an overview of the 
 
 ## 🔗 Demo
 
-[Click here to view the live page](https://Deepikaa1102.github.io/repo-College-WebPage)  
+[Click here to view the live page](https://github.com/Deepikaa1102/College-WebPage)  
 
 ## 🛠️ Built With
 
